@@ -1,0 +1,14 @@
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.AssemblyInfoInputs.cache
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.AssemblyInfo.cs
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.csproj.CoreCompileInputs.cache
+C:\Users\coolm\source\repos\igway atinlay\bin\Debug\net8.0\igway atinlay.exe
+C:\Users\coolm\source\repos\igway atinlay\bin\Debug\net8.0\igway atinlay.deps.json
+C:\Users\coolm\source\repos\igway atinlay\bin\Debug\net8.0\igway atinlay.runtimeconfig.json
+C:\Users\coolm\source\repos\igway atinlay\bin\Debug\net8.0\igway atinlay.dll
+C:\Users\coolm\source\repos\igway atinlay\bin\Debug\net8.0\igway atinlay.pdb
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.dll
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\refint\igway atinlay.dll
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.pdb
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\igway atinlay.genruntimeconfig.cache
+C:\Users\coolm\source\repos\igway atinlay\obj\Debug\net8.0\ref\igway atinlay.dll
